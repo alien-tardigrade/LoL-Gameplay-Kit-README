@@ -1,2 +1,7 @@
 .DS_Store
 .idea/
+
+# MkDocs build output + local toolchain venv
+site/
+.venv/
+gh-pages-wt/
